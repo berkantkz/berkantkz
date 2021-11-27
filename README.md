@@ -1,4 +1,6 @@
-### Hi there 👋
+### that's just me
+
+for now
 
 <!--
 **berkantkz/berkantkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
